@@ -1,2 +1,2 @@
 # hello-word
-html+css+jquery+javascript项目学校
+html+css+jquery+javascript项目学习
